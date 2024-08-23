@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Pyware Solutions
+- 👋 Hi, I’m @MiniSkoot32
+- 
 - 👀 I’m interested in computer coding and making video games
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on a project with my family or friends
